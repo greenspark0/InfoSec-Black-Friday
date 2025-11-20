@@ -270,6 +270,12 @@ Deal ends: 4th December
 
 ## Services:
 
+**Grayhat Warefare** -  Cloud Bucket and URL Shortener Enumeration  \
+Premium package is now only €160 for the first year, down from €300 full price and the Enterprise package only €450 for the first year, down from €960
+https://grayhatwarfare.com/packages  \
+Deal valid: offer up until we reach a specific number of subscribers, then we will revert the old prices. 
+
+
 **AirVPN** -  Save up to 74% when compared to one month plan price  \
 https://airvpn.org/forums/topic/77311-2025-black-friday-sale  \
 Use code `BLACKFRIDAY2025` \
