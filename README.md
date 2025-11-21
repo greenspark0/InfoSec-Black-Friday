@@ -47,13 +47,13 @@ Yes, please follow the below formatting guidelines, provide a source and code. H
 **8kSec Academy** - Mobile Application Security and Offensive iOS/Android Security Internals On-Demand Trainings  \
 https://academy.8ksec.io/  
 15% off all courses with code: `blackfriday15` \
-Deal ends: 10th December 2025 \
+Deal ends: 10th December 2025 
 
 **AI Security - Professional Course**, hands-on training with LLM Top 10, MITRE Atlas Framework, AI attack and defend techniques, and more \
 https://www.practical-devsecops.com/certified-ai-security-professional  
 15% off ($150 USD), auto-applied at checkout \
 (Enroll Now and Study Later) \
-Deal ends: 7th December 2025 \
+Deal ends: 7th December 2025 
 
 **Altered Security** - Online Security Training Labs \
 https://www.alteredsecurity.com/  
@@ -61,36 +61,36 @@ https://www.alteredsecurity.com/
 25% off when you purchase more than one course \
 10% off on AltSecCON 2025 \
 No coupon code required \
-Deal ends: 17th December 2025 \
+Deal ends: 17th December 2025 
 
 
 **Balkasoft** - DFIR and Mobile Forensics Training \
 https://belkasoft.com/training-bundles  
-33% off on course bundles (save $999), applied automatically \
+33% off on course bundles (save $999), applied automatically 
 
 **Blu Raven Academy** - Hands-On KQL Training for Threat Hunting, Detection Engineering, and Security Analysis \
 https://academy.bluraven.io/blackfriday2025  
-35% off with code: `BFCM25` \
+35% off with code: `BFCM25` 
 
 **Career Hacking Quest** - Free career course and community for Cybersecurity engineers :new: \
-Bi-weekly live resume review sessions.
-https://www.careerhackingquest.com/
+Bi-weekly live resume review sessions. \
+https://www.careerhackingquest.com/ \
 FREE
 
 **CloudBreach** - Advanced Offensive Azure & AWS Security Trainings and Certifications \
-https://cloudbreach.io/blackfriday/  
+https://cloudbreach.io/blackfriday/  \
 20% off with code: `BlackFriday25` \
-Deal valid: 21nd November - 8th December \
+Deal valid: 21nd November - 8th December 
 
 **The Cyber Plumber's Lab Guide and Access** - learn offense-based / red team SSH tunneling \
 https://opsdisk.gumroad.com/l/cphlab/bf2025  
 50% off ($14.99 USD) + free handbook with code: `bf2025` \
-Deal valid until 6 December 2025, 00:00 UTC \
+Deal valid until 6 December 2025, 00:00 UTC 
 
 **CyberWarFare Labs** \
 https://cyberwarfare.live/  
 Up to 90% off \
-Deal ends: 30th November \
+Deal ends: 30th November 
 
 **DevSecOps Pro** - Build DevSecOps pipelines using GitHub Actions and AWS :new: \
 https://devsecopspro.com/bfcm-2025
@@ -101,89 +101,90 @@ Deal ends: 1st December
 
 **DNS for Developers** - Everything developers should know about DNS. \
 https://nslookup.io/dns-course/  
-66% off the course and certification \
+66% off the course and certification 
 
 
 **Evilginx Mastery** – Adversary-in-the-middle (AiTM) phishing and Evilginx framework training \
-https://academy.breakdev.org/evilginx-mastery?coupon=BLACKWEEK  
+https://academy.breakdev.org/evilginx-mastery?coupon=BLACKWEEK  \
 50% off Evilginx Mastery course with code `BLACKWEEK` (Black Week promo) \
 10% discount on new Evilginx Pro licenses during Black Week (see site for details) \
 Deal valid: Black Week 2025 
 
 **Hack The Box – Pro Labs annual subscription** \
-https://www.hackthebox.com/blog/New-pro-labs-discount  
+https://www.hackthebox.com/blog/New-pro-labs-discount  \
 25% off Pro Labs annual subscription with code: `novprolabsannual25off` \
-Deal valid until 30 November 2025, 23:59 EET \
+Deal valid until 30 November 2025, 23:59 EET 
 
 **HackSmarter** - Hands-on cybersecurity labs and training platform \
-https://hacksmarter.org/  
+https://hacksmarter.org/  \
 All Access subscription: $16.99/month (43% discount), includes all courses, labs, and “Hack with Me” content; upcoming Web App Pentesting course in February included \
 Hands-On Labs subscription: $6.99/month (22% discount), unlocks all labs (Windows, Linux, Active Directory) with new labs released weekly \
-All individual courses are also discounted for one-time lifetime access (no subscription required); see site for full discount details \
+All individual courses are also discounted for one-time lifetime access (no subscription required); see site for full discount details 
 
 **HackTricks Training** \
-https://training.hacktricks.xyz  
+https://training.hacktricks.xyz  \
 -20% on all courses & -30% on course bundles (the discounts are applied automatically on the website) \
 -15% off on Labs & Exams \
-Deal valid until 30th November 2025 \
+Deal valid until 30th November 2025 
 
 **Hexordia** - DFIR Virtual Live training \
-https://learn.hexordia.com/  
+https://learn.hexordia.com/  \
 30% off all courses with code: `BF35` \
-Deal ends: 2nd December \
+Deal ends: 2nd December 
 
 **Invictus Incident Response Training** \
 https://academy.invictus-ir.com  
 20% off on all courses \
-Deal ends: 5th December \
+Deal ends: 5th December 
 
 **Invictus Incident Response Training** \
 https://cloudlabs.invictus-ir.com  
 20% off on Premium Tier \
-Deal ends: 5th December \
+Deal ends: 5th December 
 
 **LetsDefend** - Blue Team Training \
-https://app.letsdefend.io/pricing/  
-50% off on annual plans \
+https://app.letsdefend.io/pricing/  \
+50% off on annual plans 
 
 **Mobile Hacking Lab** - Offensive Mobile Security Trainings \
-https://www.mobilehackinglab.com/appsec-aah  
+https://www.mobilehackinglab.com/appsec-aah  \
 Buy 1, Get 2 Free. 60% Off. Get the Advanced Android Hacking course taught by multi-year Pwn2Own winner Ken Gannon, plus the CAPT Android and CIPT iOS certification exams at no extra cost. \
-https://www.mobilehackinglab.com/bundle/android-kernel-userland  
-60% Off when you bundle the two Advanced Android courses: Android Userland + Kernel Fuzzing and Exploitation. \
+https://www.mobilehackinglab.com/bundle/android-kernel-userland  \
+60% Off when you bundle the two Advanced Android courses: Android Userland + Kernel Fuzzing and Exploitation. 
 
 **OffSec – Learn One subscription promo** \
-https://www.offsec.com/blog/learn-one-promo/  
+https://www.offsec.com/blog/learn-one-promo/  \
 Save 20% (up to $550 off) on the Learn One annual subscription; discount is automatically applied at checkout, no code required \
 Limited-time end-of-year promotion; best price of the year on Learn One with 365 days of access, one 200/300-level course, two exam attempts, and 200+ Proving Grounds Practice labs \
 
 **OPSWAT** - Critical Infrastructure security courses \
 https://opswatacademy.com/courses  
+
 **41% - 50% off on various courses, recommend to buy bundles instead:** \
-Advanced CIP Cybersecurity Bundle: https://opswatacademy.com/courses/advanced-cip-cybersecurity-bundle  
+Advanced CIP Cybersecurity Bundle: https://opswatacademy.com/courses/advanced-cip-cybersecurity-bundle  \
 85% off (US$99 instead of US$660) applied automatically \
 OT Security Expert: https://opswatacademy.com/courses/ot-security-expert  
-92% off (US$79 instead of US$1,000) applied automatically \
+92% off (US$79 instead of US$1,000) applied automatically 
 
 **Pluralsight** – Online Tech Learning Platform \
-https://www.pluralsight.com/  
+https://www.pluralsight.com/  \
 `comeback60` 60% off \
 Deal valid till 31 December 2025 \
 
 **Practical DevSecOps** - AI Security, DevSecOps, and AppSec hands-on training and certifications \
-https://www.practical-devsecops.com/black-friday/  
+https://www.practical-devsecops.com/black-friday/  \
 15% off all courses, save up to USD 500 on bundle, auto-applied at checkout \
 (Enroll Now and Study Later) \
 Deal ends: 7th December 2025 \
 
 **Practical TLS** - SSL/TLS Deep Dive Course, including the latest version TLS 1.3 \
-https://classes.pracnet.net/courses/practical-tls  
+https://classes.pracnet.net/courses/practical-tls  \
 80%+ off course price, originally $297, now only $50 with code `BFCM2025` \
 (Enroll Now and Study Later - pay once, lifetime access) \
 Deal ends: 7th December 2025 \
 
 **pwn.guide** - Helping both beginners & experts learn cybersecurity with 150+ tutorials & certification training \
-https://pwn.guide/  
+https://pwn.guide/  \
 20% off all plans (including LIFETIME!) with code: `BLKFRI20` \
 Deal ends: 5th December \
 
@@ -195,22 +196,22 @@ Deal ends: December 1st, 2025 \
 
 **TCM Academy** - Blue & Red Cyber Security Training and Certifications \
 Certifications: https://certifications.tcm-sec.com/  
-Academy: https://academy.tcm-sec.com/  
+Academy: https://academy.tcm-sec.com/  \
 20% off of all certifications and live training (NO COUPON REQUIRED) \
 50% off of any All Access Membership with code (NO COUPON REQUIRED) \
 Deal ends: 1st December 2025 \
 
 **TheXero** - Premium Offensive Cybersecurity Training  \
-https://training.thexero.co.uk/  
+https://training.thexero.co.uk/  \
 Save 65% on Wireless Mastery + BONUS \
 Offer valid until 2nd December \
 
 **Vantage Point (Enciphers)** \
-https://vantagepoint.enciphers.com/  
+https://vantagepoint.enciphers.com/  \
 70% off on all labs, certifications (NO COUPON REQUIRED) \
 
 **White Knight Labs** - On-demand and live red team & offensive security training \
-https://training.whiteknightlabs.com/  
+https://training.whiteknightlabs.com/  \
 Black Friday sale: 50% off all training and certification courses; lifetime access to purchased content, discount applied automatically at checkout \
 Source: https://www.linkedin.com/posts/white-knight-labs_this-black-friday-were-not-just-running-activity-7396887666300198912-tfn0 
 
@@ -220,7 +221,7 @@ https://academy.wifichallenge.com \
 Deal ends: December 1st, 2025
 
 **ZeroPoint Security** – Red teaming & offensive security training \
-https://www.zeropointsecurity.co.uk/courses  
+https://www.zeropointsecurity.co.uk/courses  \
 30% off all courses during the Black Friday sale; discount is automatically applied at checkout (no coupon required) \
 Disconnect from VPNs before purchase or the discount may not apply; does not stack with PPP \
 Deal valid until 1st December 2025 
@@ -235,7 +236,7 @@ Up to 90% Discount on all Community Exams (NO COUPON REQUIRED)
 ## Mini Courses
 
 **SecDim** - In-Repository Secure Code Learning \
-https://play.secdim.com
+https://play.secdim.com \
 In-repository attack and defence wargame to learn appsec/devsecops/secure code/review. Find, hack and fix security vulnerabilities inspired by real-world incidents.  \
 35% off yearly, checkout using code: `APPSECONABUDGET2025` \
 Deal valid: 20th November - 5th December
@@ -261,7 +262,7 @@ Deal valid: 24th - 30th November
 ## Professional Services
 
 **Wortell** - Offensive solutions including penetration testing. \
-http://wortell.nl
+http://wortell.nl \
 50% off offensive services with code `BLACKFIRDAY2025` in email subject to dennis.de.hoog@wortell.nl \
 Deal ends: 20th December 2025
 
@@ -270,47 +271,47 @@ Deal ends: 20th December 2025
 ## Tools
 
 **Burp Bounty Pro** - Web vulnerability scanner that revolutionizes authenticated testing directly in Burp Suite. Designed for penetration testers, security teams, and bug hunters, Burp Bounty Pro automates security assessments significantly reducing your audit time while expanding overall coverage. \
-https://bountysecurity.ai
+https://bountysecurity.ai \
 40% off on annual plans \
 Deal ends: 2th December
 
 **Burp Bounty Go** - High-performance vulnerability scanner developed with Golang microservices. It brings modern offensive security to the next level by enabling high-speed, distributed scanning beyond Burp Suite's native capabilities. \
-https://bountysecurity.ai
-40% off on annual plans \
-Deal ends: 2th December
+https://bountysecurity.ai  
 
 **FullStro** - P A Multi-Channel Ecommerce Automation :see_no_evil: :new: \
-http://fullstro.com/black-friday-deals/ 
+http://fullstro.com/black-friday-deals/ \
 70% off all plans \
 Deal valid: 16th November - 6rd December
 
 **Grammarly Pro** – AI-powered writing assistant for clarity, originality, and authenticity \
-https://www.grammarly.com/  
+https://www.grammarly.com/  \
 Grammarly Free helps you avoid mistakes, while Grammarly Pro adds AI agents like Paraphraser and Humanizer so you can express ideas in your own voice, plus Plagiarism Checker and AI Detector to ensure your work reflects your thinking, not someone else’s \
 Get 50% off the annual Pro plan and write with the confidence to stand behind every word \
 
 
 **PortDroid** - Port Scanner and Swiss Army Knife of Network Security Tools for Android \
-https://portdroid.net/black-friday-2025/  
+https://portdroid.net/black-friday-2025/  \
 >50% off lifetime version with code: `CYBER_2025` \
 Deal ends: 4th December
 
 **Proton Mail/VPN/Pass/Drive** - Encrypted Services \
 https://proton.me/black-friday \
-38% off Lumo AI
-50% off Mail, Drive or Proton Unlimited
-60% off Pass
-70% off VPN
+38% off Lumo AI \
+50% off Mail, Drive or Proton Unlimited \
+60% off Pass \
+70% off VPN 
 
-**SEOengine.ai** - SEOengine.ai deploys 5 specialized AI agents that analyze competitors, mine real user questions from Reddit/Quora, and generate 4,000-6,000 word AEO-optimized articles in your authentic brand voice—not generic ChatGPT content. From research to publication-ready content with E-E-A-T compliance, internal linking, and multimedia integration—all automated in one seamless workflow. \
-https://seoengine.ai \
-35% OFF with code `BLACKFRIDAY` \
-Deal valid: Nov 17 - Dec 7
+
 
 **HTTP Toolkit** - Open-source HTTP proxy, debugger & client, with instant one-click setup for Android, Docker, browsers, node.js & more \
 [httptoolkit.com](https://httptoolkit.com/?ref=wwwiesel) \
 50% off forever on annual subscriptions, with code `BLACKFRIDAY25` \
 Deal ends: 3rd December
+
+**SEOengine.ai** - SEOengine.ai deploys 5 specialized AI agents that analyze competitors, mine real user questions from Reddit/Quora, and generate 4,000-6,000 word AEO-optimized articles in your authentic brand voice—not generic ChatGPT content. From research to publication-ready content with E-E-A-T compliance, internal linking, and multimedia integration—all automated in one seamless workflow. \
+https://seoengine.ai \
+35% OFF with code `BLACKFRIDAY` \
+Deal valid: Nov 17 - Dec 7
 
 **SubtitleBee** - AI-powered subtitle generator, translator, and transcriber with support for 120+ languages \
 [SubtitleBee BFCM Deal](https://subtitlebee.com/#pricing) \
@@ -335,9 +336,13 @@ https://airvpn.org/forums/topic/77311-2025-black-friday-sale  \
 Use code `BLACKFRIDAY2025` \
 Deal valid: 14th November - 3rd December
 
+**CyberGhost VPN** \
+https://www.cyberghostvpn.com/buy/cyberghost-vpn-3   \
+83% off VPN 2 Years Plan + 4 months free \
+
 **Proton Mail/VPN/Pass/Drive** - Encrypted Services \
-[https://proton.me/mail/black-friday](https://proton.me/black-friday)
-Save up to 70%
+[https://proton.me/mail/black-friday](https://proton.me/black-friday) \
+Save up to 70% \
 Deal valid: ?
 
 **NordVPN** \
@@ -349,18 +354,20 @@ https://nordvpn.com/pricing
 62% off Legend Plan, applied automatically \
 Deal valid:  17th November – 1th Decembe
 
-**CyberGhost VPN** \
-https://www.cyberghostvpn.com/buy/cyberghost-vpn-3  
-83% off VPN 2 Years Plan + 4 months free
+**InMotion Hosting** – Web Hosting, VPS & Dedicated Servers \
+https://www.inmotionhosting.com/black-friday-web-hosting-deals  
+Up to 75% off Shared & WordPress hosting plans (discount auto-applied at checkout) \
+50% off Premier Care bundles for new Managed VPS & Dedicated Hosting customers (includes proactive security, backups, and priority support) \
+Deal valid: 18th November – 9th December 2025 \
 
 **IP VANISH VPN** \
-https://www.ipvanish.com/pricing/  
+https://www.ipvanish.com/pricing/  \
 up to 83% off
 
 ## Misc: 
 
 **Neato Stickers** - Hacking & Cybersecurity related stickers :new: \
-https://neatstickersco.etsy.com/  
+https://neatstickersco.etsy.com/  \
 15% off all stickers or merch \
 Deal Ends: 13th December
 
