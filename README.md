@@ -85,7 +85,7 @@ Deal valid: 21nd November - 8th December
 **The Cyber Plumber's Lab Guide and Access** - learn offense-based / red team SSH tunneling \
 https://opsdisk.gumroad.com/l/cphlab/bf2025  
 50% off ($14.99 USD) + free handbook with code: `bf2025` \
-Deal valid until 6 December 2025, 00:00 UTC 
+Deal valid from 27 November 2025, 00:00 UTC until 6 December 2025, 00:00 UTC 
 
 **CyberWarFare Labs** \
 https://cyberwarfare.live/  
