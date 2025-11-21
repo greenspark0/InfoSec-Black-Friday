@@ -43,6 +43,12 @@ Yes, please follow the below formatting guidelines, provide a source and code. H
 
 ## Online Courses & Training
 
+
+**8kSec Academy** - Mobile Application Security and Offensive iOS/Android Security Internals On-Demand Trainings  \
+https://academy.8ksec.io/  
+15% off all courses with code: `blackfriday15` \
+Deal ends: 10th December 2025 \
+
 **AI Security - Professional Course**, hands-on training with LLM Top 10, MITRE Atlas Framework, AI attack and defend techniques, and more \
 https://www.practical-devsecops.com/certified-ai-security-professional  
 15% off ($150 USD), auto-applied at checkout \
@@ -56,6 +62,7 @@ https://www.alteredsecurity.com/
 10% off on AltSecCON 2025 \
 No coupon code required \
 Deal ends: 17th December 2025 \
+
 
 **Balkasoft** - DFIR and Mobile Forensics Training \
 https://belkasoft.com/training-bundles  
