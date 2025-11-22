@@ -323,6 +323,16 @@ https://websitevoice.com/
 20% off on all plans, with code `VOICE20` \
 Deal ends: 4th December
 
+**SupaSidebar** - Arc-like sidebar for all browsers. Save links, files and folders a click away. \
+[SupaSidebar Black Friday Deal](https://www.supasidebar.com/?utm_source=infosec-github#pricing) \
+50% off Lifetime Plan, with code BLACKFRIDAY50 \
+Deal ends: 3rd December
+
+**Focusmo** - Focusmo helps you log your day as you go - so you stop losing hours to distractions and end every day proud of what you achieved \
+[Focusmo Black Friday Deal](https://www.focusmo.app/?utm_source=infosec-github) \
+50% off Lifetime Plan, code automatically applied \
+Deal ends: 3rd December
+
 ## Services:
 
 **Grayhat Warefare** -  Cloud Bucket and URL Shortener Enumeration  \
