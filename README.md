@@ -222,7 +222,7 @@ Deal ends: December 1st, 2025
 
 **ZeroPoint Security** – Red teaming & offensive security training \
 https://www.zeropointsecurity.co.uk/courses  \
-30% off all courses during the Black Friday sale; discount is automatically applied at checkout (no coupon required) \
+40% off all courses during the Black Friday sale; discount is automatically applied at checkout (no coupon required) \
 Disconnect from VPNs before purchase or the discount may not apply; does not stack with PPP \
 Deal valid until 1st December 2025 
 
