@@ -189,29 +189,29 @@ Deal ends: 7th December 2025 \
 **pwn.guide** - Helping both beginners & experts learn cybersecurity with 150+ tutorials & certification training \
 https://pwn.guide/  \
 20% off all plans (including LIFETIME!) with code: `BLKFRI20` \
-Deal ends: 5th December \
+Deal ends: 5th December 
 
 **SOC ANALYST - CYBERSECURITY BEGINNERS**, Accessible and Affordable Q-Model Platform, currently 14 (two more in the pipeline) courses with hands-on projects, labs and cyberange. \
 https://www.cybernoweducation.com/  
 $60 LIFETIME Membership, use code `BlackFriday` at https://www.cybernoweducation.com/upgrade \
 If you complete **10+** courses we will ship you a custom-made _plaque_ with your name on it! \
-Deal ends: December 1st, 2025 \
+Deal ends: December 1st, 2025 
 
 **TCM Academy** - Blue & Red Cyber Security Training and Certifications \
 Certifications: https://certifications.tcm-sec.com/  
 Academy: https://academy.tcm-sec.com/  \
 20% off of all certifications and live training (NO COUPON REQUIRED) \
 50% off of any All Access Membership with code (NO COUPON REQUIRED) \
-Deal ends: 1st December 2025 \
+Deal ends: 1st December 2025 
 
 **TheXero** - Premium Offensive Cybersecurity Training  \
 https://training.thexero.co.uk/  \
 Save 65% on Wireless Mastery + BONUS \
-Offer valid until 2nd December \
+Offer valid until 2nd December 
 
 **Vantage Point (Enciphers)** \
 https://vantagepoint.enciphers.com/  \
-70% off on all labs, certifications (NO COUPON REQUIRED) \
+70% off on all labs, certifications (NO COUPON REQUIRED) 
 
 **White Knight Labs** - On-demand and live red team & offensive security training \
 https://training.whiteknightlabs.com/  \
@@ -240,6 +240,11 @@ Deal valid: 23rd November - 15th December
 https://pentestingexams.com/ \
 80% off on all pentesting exams. Use code: BF-80 \
 Up to 90% Discount on all Community Exams (NO COUPON REQUIRED)
+
+**Certified Cybersecurity Educator Professional (CCEP)** - Cybershield \
+https://courses.redteamleaders.com/exams/b442ad36-44fe-4b6f-99f5-fd6f7ddbb4b4 \
+100% off using code: `CCEP100OFF`
+
 
 ## Mini Courses
 
