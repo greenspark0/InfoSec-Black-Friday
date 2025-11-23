@@ -325,7 +325,7 @@ Deal valid: Nov 17 - Dec 7
 Deal ends: 4th December
 
 **WebsiteVoice** - A simple, but powerful text-to-speech solution to turn website content into speech \
-https://websitevoice.com/ 
+https://websitevoice.com/
 20% off on all plans, with code `VOICE20` \
 Deal ends: 4th December
 
@@ -340,6 +340,11 @@ Deal ends: 3rd December
 Deal ends: 3rd December
 
 ## Services:
+
+**DarkWebSonar** -  Save 30% on Basic and Pro plans (monthly & Yearly)  \
+https://darkwebsonar.io/ - Dark Web Monitoring (Forums, Breaches, Ransomware, Zero Days) \
+Use code `BLACKFRIDAY25` \
+Deal ends: 30th November 2025
 
 **Grayhat Warefare** -  Cloud Bucket and URL Shortener Enumeration  \
 Premium package is now only €160 for the first year, down from €300 full price and the Enterprise package only €450 for the first year, down from €960
