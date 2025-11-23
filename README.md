@@ -43,6 +43,9 @@ Yes, please follow the below formatting guidelines, provide a source and code. H
 
 ## Online Courses & Training
 
+**Maldev Academy** - Advanced module-based training in Windows malware development, ransomware internals, and offensive phishing operations  \
+https://maldevacademy.com/ \
+25% off with code: `BLKFRIDAY` 
 
 **8kSec Academy** - Mobile Application Security and Offensive iOS/Android Security Internals On-Demand Trainings  \
 https://academy.8ksec.io/  
