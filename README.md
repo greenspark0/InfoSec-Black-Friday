@@ -63,6 +63,12 @@ https://www.alteredsecurity.com/
 No coupon code required \
 Deal ends: 17th December 2025 
 
+**Practical DevSecOps** - AI Security, DevSecOps, and AppSec hands-on training and certifications \
+https://www.practical-devsecops.com/ \
+15% off all courses, save up to USD 500 on bundle, auto-applied at checkout \
+(Enroll Now and Study Later) \
+Deal ends: 7th December 2025 
+
 
 **Balkasoft** - DFIR and Mobile Forensics Training \
 https://belkasoft.com/training-bundles  
@@ -170,12 +176,6 @@ OT Security Expert: https://opswatacademy.com/courses/ot-security-expert
 https://www.pluralsight.com/  \
 `comeback60` 60% off \
 Deal valid till 31 December 2025 \
-
-**Practical DevSecOps** - AI Security, DevSecOps, and AppSec hands-on training and certifications \
-https://www.practical-devsecops.com/black-friday/  \
-15% off all courses, save up to USD 500 on bundle, auto-applied at checkout \
-(Enroll Now and Study Later) \
-Deal ends: 7th December 2025 \
 
 **Practical TLS** - SSL/TLS Deep Dive Course, including the latest version TLS 1.3 \
 https://classes.pracnet.net/courses/practical-tls  \
