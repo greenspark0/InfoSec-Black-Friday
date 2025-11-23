@@ -362,7 +362,12 @@ Deal valid: 18th November – 9th December 2025 \
 
 **IP VANISH VPN** \
 https://www.ipvanish.com/pricing/  \
-up to 83% off
+up to 83% off \
+
+**EDR Feature Comparison Service — Independent EDR Evaluations**
+https://www.edr-comparison.com/ \
+No code required - Early adopter and Black Friday pricing. \
+60% off (LIFETIME ACCESS) :new:
 
 ## Misc: 
 
