@@ -134,12 +134,12 @@ Deal ends: 2nd December
 
 **Invictus Incident Response Training** \
 https://academy.invictus-ir.com  
-20% off on all courses \
+20% off on all courses with code: BLACKFRIDAY25 \
 Deal ends: 5th December 
 
 **Invictus Incident Response Training** \
 https://cloudlabs.invictus-ir.com  
-20% off on Premium Tier \
+20% off on Premium Tier with code: BLACKFRIDAY25 \
 Deal ends: 5th December 
 
 **LetsDefend** - Blue Team Training \
