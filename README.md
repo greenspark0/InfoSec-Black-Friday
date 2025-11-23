@@ -267,6 +267,12 @@ http://wortell.nl \
 Deal ends: 20th December 2025
 
 
+## Data feeds
+
+**CTIChef threat detection feeds** - the feeds offer a continuous stream of newly published and updated detection rules, sourced from 50+ public GitHub repositories, as STIX/TAXII and MISP feeds. Rules are pre-processed and are shipped with extracted key observables (IPs, hashes, etc.) for direct use in SIEM/TIP platforms. The threat detection intelligence feed includes rule change analysis with impact guidance, correlation to active CVEs and threat campaigns, and a weekly detection engineering brief, all designed to support strategic decision-making, prioritization of efforts, and a robust, proactive detection posture. \
+https://dispatch.ctichef.com/feeds \
+Free access until 2026 after filling the form. \
+Deal ends: 1st January, 2026
 
 ## Tools
 
