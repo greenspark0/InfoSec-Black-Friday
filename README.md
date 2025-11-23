@@ -319,14 +319,14 @@ Deal valid: Nov 17 - Dec 7
 Deal ends: 4th December
 
 **WebsiteVoice** - A simple, but powerful text-to-speech solution to turn website content into speech \
-https://websitevoice.com/ - Dark Web Monitoring (Forums, Breaches, Ransomware, Zero Days)
+https://websitevoice.com/
 20% off on all plans, with code `VOICE20` \
 Deal ends: 4th December
 
 ## Services:
 
 **DarkWebSonar** -  Save 30% on Basic and Pro plans (monthly & Yearly)  \
-https://darkwebsonar.io/  \
+https://darkwebsonar.io/ - Dark Web Monitoring (Forums, Breaches, Ransomware, Zero Days) \
 Use code `BLACKFRIDAY25` \
 Deal ends: 30th November 2025
 
