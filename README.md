@@ -118,11 +118,10 @@ https://nslookup.io/dns-course/
 66% off the course and certification 
 
 
-**Evilginx Mastery** – Adversary-in-the-middle (AiTM) phishing and Evilginx framework training \
+**Evilginx Mastery** - Adversary-in-the-middle (AiTM) phishing and Evilginx framework training \
 https://academy.breakdev.org/evilginx-mastery?coupon=BLACKWEEK  \
-50% off Evilginx Mastery course with code `BLACKWEEK` (Black Week promo) \
-10% discount on new Evilginx Pro licenses during Black Week (see site for details) \
-Deal valid: Black Week 2025 
+50% off Evilginx Mastery course with code `BLACKWEEK` (199 EUR ~~399 EUR~~) \
+Deal ends: 1st December
 
 **Hack The Box – Pro Labs annual subscription** \
 https://www.hackthebox.com/blog/New-pro-labs-discount  \
@@ -356,6 +355,12 @@ Deal ends: 3rd December
 [focusmo.app](https://www.focusmo.app/?utm_source=infosec-github) \
 50% off Lifetime Plan, code automatically applied \
 Deal ends: 3rd December
+
+**Evilginx Pro** - Reverse proxy phishing framework for red teams. \
+[evilginx.com](https://evilginx.com) \
+10% discount on new Evilginx Pro licenses during Black Week (1260 EUR ~~1400 EUR~~). \
+Requires BREAKDEV RED red team community membership. Apply [here](https://red.breakdev.org/join) \
+Deal ends: 1st December
 
 ## Services:
 
