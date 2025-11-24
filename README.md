@@ -151,7 +151,7 @@ https://academy.invictus-ir.com
 20% off on all courses with code: BLACKFRIDAY25 \
 Deal ends: 5th December 
 
-**Invictus Incident Response Training** \
+**Invictus Incident Response CloudLabs** \
 https://cloudlabs.invictus-ir.com  
 20% off on Premium Tier with code: BLACKFRIDAY25 \
 Deal ends: 5th December 
