@@ -118,6 +118,12 @@ https://nslookup.io/dns-course/
 66% off the course and certification 
 
 
+**Digital Defense Institute** - Threat Hunting & Incident Response with Velociraptor \
+https://academy.digitaldefenseinstitute.com/courses/225936b9-6eec-4838-aae4-5dc65274179b
+40% off the on-demand course with code `blackfriday2025` ($360 ~~$600~~) \
+Deal ends: 28th Nov 00:00 EST
+
+
 **Evilginx Mastery** - Adversary-in-the-middle (AiTM) phishing and Evilginx framework training \
 https://academy.breakdev.org/evilginx-mastery?coupon=BLACKWEEK  \
 50% off Evilginx Mastery course with code `BLACKWEEK` (199 EUR ~~399 EUR~~) \
