@@ -283,6 +283,11 @@ http://wortell.nl \
 50% off offensive services with code `BLACKFIRDAY2025` in email subject to dennis.de.hoog@wortell.nl \
 Deal ends: 20th December 2025
 
+**BCCS** – Cybersecurity assessment & advisory, resilience, managed services, and regulatory compliance for fintech, Web3 and other regulated industries. \
+[https://bccs.tech/](https://bccs.tech/)  \
+Black Friday 2025: 10% discount on all services, email hello@bccs.tech and mention "InfoSec Black Friday" for details \
+Deal ends: 6th December
+
 
 ## Data feeds
 
