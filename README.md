@@ -238,6 +238,11 @@ https://www.modernsecurity.io/courses/ai-security-certification \
 15% off with code -  `BLACKFRIDAY-15-MSECAI` \
 Deal valid: 23rd November - 15th December
 
+**TryHackMe** - Gamified, hands-on cyber security training platform \
+https://tryhackme.com/why-subscribe  
+40% off Annual Subscription with code: `BLACKFRIDAY40` \
+Deal Ends: 28th November
+
 ## Exams
 
 **The SecOps Group** - Pentesting Exams \
