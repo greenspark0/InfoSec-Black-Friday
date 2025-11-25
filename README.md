@@ -209,7 +209,7 @@ Academy: https://academy.tcm-sec.com/  \
 Deal ends: 1st December 2025 
 
 **TheXero** - Premium Offensive Cybersecurity Training  \
-https://training.thexero.co.uk/  \
+https://training.thexero.co.uk/p/2025-black-friday-sale  \
 Save 65% on Wireless Mastery + BONUS \
 Offer valid until 2nd December 
 
