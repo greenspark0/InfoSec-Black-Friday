@@ -413,6 +413,11 @@ https://www.edr-comparison.com/ \
 No code required - Early adopter and Black Friday pricing. \
 60% off (LIFETIME ACCESS) :new:
 
+**Security EngiNerd – Save up to 60% on expert security services** \
+https://www.securityenginerd.com/black-friday.html  
+Security EngiNerd is providing limited-time Black Friday discounts, including 40% off penetration testing, 50% off subcontracting support, and 60% off dark web exposure analysis. All services are handled by certified security specialists. \
+Deal Valid - From 20 November to 5 December 2025
+
 ## Misc: 
 
 **Neato Stickers** - Hacking & Cybersecurity related stickers :new: \
